@@ -1,0 +1,22 @@
+{
+  "name": "medivatspa",
+  "version": "1.0.0",
+  "description": "Medivat's SPA UI in angular 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoic1979/MedivatSPA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stoic1979/MedivatSPA/issues"
+  },
+  "homepage": "https://github.com/stoic1979/MedivatSPA#readme",
+  "devDependencies": {
+    "@angular/cli": "^1.6.4"
+  }
+}
